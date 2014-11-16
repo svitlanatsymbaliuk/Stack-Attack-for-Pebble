@@ -1,0 +1,276 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "svitlana.tsymbaliuk@gmail.com",
+    "longName": "Stack Attack",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/cranes_en.txt",
+                "name": "CRANES_EN",
+                "type": "raw"
+            },
+            {
+                "file": "data/characters_en.txt",
+                "name": "CHARACTERS_EN",
+                "type": "raw"
+            },
+            {
+                "file": "data/about_en.txt",
+                "name": "ABOUT_EN",
+                "type": "raw"
+            },
+            {
+                "file": "data/instructions_en.txt",
+                "name": "INSTRUCTIONS_EN",
+                "type": "raw"
+            },
+            {
+                "file": "data/menu_en.txt",
+                "name": "MENU_EN",
+                "type": "raw"
+            },
+            {
+                "file": "images/pete.png",
+                "name": "PETE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/frank.png",
+                "name": "FRANK",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/sam.png",
+                "name": "SAM",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/cath.png",
+                "name": "CATH",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/lizzie.png",
+                "name": "LIZZIE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/will.png",
+                "name": "WILL",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/box1.png",
+                "name": "BOX1",
+                "type": "png"
+            },
+            {
+                "file": "images/box2.png",
+                "name": "BOX2",
+                "type": "png"
+            },
+            {
+                "file": "images/box3.png",
+                "name": "BOX3",
+                "type": "png"
+            },
+            {
+                "file": "images/box4.png",
+                "name": "BOX4",
+                "type": "png"
+            },
+            {
+                "file": "images/box5.png",
+                "name": "BOX5",
+                "type": "png"
+            },
+            {
+                "file": "images/box6.png",
+                "name": "BOX6",
+                "type": "png"
+            },
+            {
+                "file": "images/crane.png",
+                "name": "CRANE",
+                "type": "png"
+            },
+            {
+                "file": "images/box7.png",
+                "name": "BOX7",
+                "type": "png"
+            },
+            {
+                "file": "images/box8.png",
+                "name": "BOX8",
+                "type": "png"
+            },
+            {
+                "file": "images/box9.png",
+                "name": "BOX9",
+                "type": "png"
+            },
+            {
+                "file": "images/box10.png",
+                "name": "BOX10",
+                "type": "png"
+            },
+            {
+                "file": "images/box11.png",
+                "name": "BOX11",
+                "type": "png"
+            },
+            {
+                "file": "images/0.png",
+                "name": "0",
+                "type": "png"
+            },
+            {
+                "file": "images/1.png",
+                "name": "1",
+                "type": "png"
+            },
+            {
+                "file": "images/2.png",
+                "name": "2",
+                "type": "png"
+            },
+            {
+                "file": "images/3.png",
+                "name": "3",
+                "type": "png"
+            },
+            {
+                "file": "images/4.png",
+                "name": "4",
+                "type": "png"
+            },
+            {
+                "file": "images/5.png",
+                "name": "5",
+                "type": "png"
+            },
+            {
+                "file": "images/6.png",
+                "name": "6",
+                "type": "png"
+            },
+            {
+                "file": "images/7.png",
+                "name": "7",
+                "type": "png"
+            },
+            {
+                "file": "images/8.png",
+                "name": "8",
+                "type": "png"
+            },
+            {
+                "file": "images/9.png",
+                "name": "9",
+                "type": "png"
+            },
+            {
+                "file": "images/7p.png",
+                "name": "7P",
+                "type": "png"
+            },
+            {
+                "file": "images/ceiling.png",
+                "name": "CEILING",
+                "type": "png"
+            },
+            {
+                "file": "images/floor.png",
+                "name": "FLOOR",
+                "type": "png"
+            },
+            {
+                "file": "images/wall.png",
+                "name": "WALL",
+                "type": "png"
+            },
+            {
+                "file": "images/level.png",
+                "name": "LEVEL",
+                "type": "png"
+            },
+            {
+                "file": "images/jump.png",
+                "name": "JUMP",
+                "type": "png"
+            },
+            {
+                "file": "images/power.png",
+                "name": "POWER",
+                "type": "png"
+            },
+            {
+                "file": "images/score.png",
+                "name": "SCORE",
+                "type": "png"
+            },
+            {
+                "file": "images/colon.png",
+                "name": "COLON",
+                "type": "png"
+            },
+            {
+                "file": "images/person0.png",
+                "name": "PERSON0",
+                "type": "png"
+            },
+            {
+                "file": "images/person1.png",
+                "name": "PERSON1",
+                "type": "png"
+            },
+            {
+                "file": "images/person2.png",
+                "name": "PERSON2",
+                "type": "png"
+            },
+            {
+                "file": "images/person3.png",
+                "name": "PERSON3",
+                "type": "png"
+            },
+            {
+                "file": "images/person4.png",
+                "name": "PERSON4",
+                "type": "png"
+            },
+            {
+                "file": "images/person5.png",
+                "name": "PERSON5",
+                "type": "png"
+            },
+            {
+                "file": "images/ceiling_background.png",
+                "name": "CEILING_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/personl.png",
+                "name": "PERSON_LOCKED",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Stack Attack",
+    "uuid": "7fd8c325-811a-4f42-a795-c83db8f3482b",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}

@@ -1,0 +1,10 @@
+1 Crane
+Starter
+2 Cranes
+Easy
+3 Cranes
+Medium
+4 Cranes
+Hard
+5 Cranes
+Boss
